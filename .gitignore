@@ -1,0 +1,9 @@
+build/
+logs/
+*.fifo
+*.log
+bugreport*.txt
+*.dmp
+*.zip
+.DS_Store
+Thumbs.db
